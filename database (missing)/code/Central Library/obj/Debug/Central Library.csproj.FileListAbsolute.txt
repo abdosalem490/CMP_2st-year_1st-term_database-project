@@ -1,0 +1,11 @@
+D:\PROJECTS\second year\first semester\database\code\Central Library\bin\Debug\Central Library.exe.config
+D:\PROJECTS\second year\first semester\database\code\Central Library\bin\Debug\Central Library.exe
+D:\PROJECTS\second year\first semester\database\code\Central Library\bin\Debug\Central Library.pdb
+D:\PROJECTS\second year\first semester\database\code\Central Library\obj\Debug\Central Library.csprojAssemblyReference.cache
+D:\PROJECTS\second year\first semester\database\code\Central Library\obj\Debug\Central_Library.loginForm.resources
+D:\PROJECTS\second year\first semester\database\code\Central Library\obj\Debug\Central_Library.Properties.Resources.resources
+D:\PROJECTS\second year\first semester\database\code\Central Library\obj\Debug\Central Library.csproj.GenerateResource.cache
+D:\PROJECTS\second year\first semester\database\code\Central Library\obj\Debug\Central Library.csproj.CoreCompileInputs.cache
+D:\PROJECTS\second year\first semester\database\code\Central Library\obj\Debug\Central Library.exe
+D:\PROJECTS\second year\first semester\database\code\Central Library\obj\Debug\Central Library.pdb
+D:\PROJECTS\second year\first semester\database\code\Central Library\obj\Debug\Central_Library.UserControl1.resources
